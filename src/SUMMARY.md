@@ -4,7 +4,7 @@
  * @Date: 2024-04-21 21:16:44
  * @Description: 目录
  * @LastEditors: jasonruan
- * @LastEditTime: 2024-04-21 23:20:34
+ * @LastEditTime: 2024-05-08 12:29:06
 -->
 # Summary
 
@@ -31,3 +31,4 @@
 
     - [NFT类](./sui_programmability_examples/nfts/README.md)
         - [数字（num）](./sui_programmability_examples/nfts/nfts_num.md)
+        - [随机掉落NFT（random_nft_airdrop）](./sui_programmability_examples/nfts/nfts_random_nft_airdrop.md)
